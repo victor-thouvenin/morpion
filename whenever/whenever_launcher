@@ -1,0 +1,4 @@
+#!/bin/bash
+
+cd Whenever-with-Read-Function
+java whenever.Whenever ../$1
